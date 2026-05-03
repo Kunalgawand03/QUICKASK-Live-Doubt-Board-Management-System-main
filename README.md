@@ -291,9 +291,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <br/>
 
-Made with ❤️ by [Kunal Gawand]([https://github.com/Kunalgawand03])
+Made with ❤️ by [Kunal Gawand](https://github.com/Kunalgawand03)
 <br/>
-Team Leader Miss. [Chanchal Chavhan]([https://github.com/CHANCHALCHAVHAN])
+Team Leader Miss. [Chanchal Chavhan](https://github.com/CHANCHALCHAVHAN)
 
 <br/>
 
